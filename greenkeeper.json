@@ -8,8 +8,8 @@
     },
     "cli": {
       "packages": [
-        "packages/@vue/cli-init/package.json",
-        "packages/@vue/cli-overlay/package.json",
+        "packages/@vue/cli-init",
+        "/packages/@vue/cli-overlay/yarn.lock",
         "packages/@vue/cli-plugin-babel/package.json",
         "packages/@vue/cli-plugin-e2e-cypress/package.json",
         "packages/@vue/cli-plugin-e2e-nightwatch/package.json",
