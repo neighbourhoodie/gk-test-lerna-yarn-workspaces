@@ -24,7 +24,7 @@
     "execa": "^0.10.0",
     "joi": "^13.1.2",
     "opn": "^5.2.0",
-    "ora": "^2.0.0",
+    "ora": "^3.0.0",
     "string.prototype.padstart": "^3.0.0"
   },
   "publishConfig": {
