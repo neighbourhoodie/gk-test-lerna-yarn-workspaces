@@ -26,7 +26,7 @@
     "workbox-webpack-plugin": "^3.0.0-beta.1"
   },
   "devDependencies": {
-    "multibumper-a": "^16.0.0",
+    "multibumper-a": "^17.0.0",
     "register-service-worker": "^1.0.0"
   }
 }
