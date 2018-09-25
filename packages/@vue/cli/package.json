@@ -44,7 +44,7 @@
     "lodash.clonedeep": "^4.5.0",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
-    "multibumper-b": "^16.0.0",
+    "multibumper-b": "^17.3.0",
     "neighbourhoodie-test-package": "^49.1235.1",
     "recast": "^0.15.3",
     "request": "^2.83.0",
