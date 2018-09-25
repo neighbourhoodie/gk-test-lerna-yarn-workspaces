@@ -22,7 +22,7 @@
   "homepage": "https://github.com/vuejs/vue-cli/packages/@vue/cli-init#readme",
   "dependencies": {
     "execa": "^1.0.0",
-    "multibumper-a": "16.0.0",
+    "multibumper-a": "17.1.0",
     "vue-cli": "^2.9.2"
   }
 }
