@@ -32,7 +32,7 @@
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "7.1.0",
     "@babel/plugin-proposal-decorators": "7.1.2",
-    "@babel/preset-typescript": "7 || ^7.0.0-beta || ^7.0.0-rc",
+    "@babel/preset-typescript": "7.1.0",
     "@types/chai": "^4.1.0",
     "@types/jest": "^23.3.1",
     "@types/mocha": "^5.0.0",
