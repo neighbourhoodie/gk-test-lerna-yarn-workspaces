@@ -30,7 +30,7 @@
     "typescript": "^3.0.3"
   },
   "devDependencies": {
-    "@babel/plugin-proposal-class-properties": "7 || ^7.0.0-beta || ^7.0.0-rc",
+    "@babel/plugin-proposal-class-properties": "7.1.0",
     "@babel/plugin-proposal-decorators": "7 || ^7.0.0-beta || ^7.0.0-rc",
     "@babel/preset-typescript": "7 || ^7.0.0-beta || ^7.0.0-rc",
     "@types/chai": "^4.1.0",
